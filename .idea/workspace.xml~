@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ad8213d3-37af-41f9-96fc-00f78d2edbe8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RickAndMortyApp/src/screens/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/RickAndMortyApp/src/screens/HomeScreen.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
